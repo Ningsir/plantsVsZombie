@@ -1,6 +1,6 @@
 # 植物大战僵尸
 
-![select](img/选择植物.PNG)
+![image](img/doublePeaShooter.gif)
 
 ## 游戏介绍
 
@@ -9,8 +9,8 @@
 * 对应于按钮中的冒险模式、迷你游戏、生存模式，其中冒险模
 式属于闯关模式（即从白天到黑夜到生存模式）。 
 * 进入游戏后开始选择植物： 
-![image](img/doublePeaShooter.gif)
 
+![select](img/选择植物.PNG)
 * 需要注意的是，如果白天种植黑夜的植物，植物会进入休眠状
 态
 ![day](img/白天.PNG)
